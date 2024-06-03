@@ -3,15 +3,21 @@
 		<loc>https://tryggp.com/</loc>
 	</url>
 	<url>
+		<loc>https://tryggp.com/overview</loc>
+	</url>
+	<url>
+		<loc>https://tryggp.com/deposits</loc>
+	</url>
+	<url>
+		<loc>https://tryggp.com/withdraw</loc>
+	</url>
+	<url>
+		<loc>https://tryggp.com/rake</loc>
+	</url>
+	<url>
 		<loc>https://tryggp.com/install</loc>
 	</url>
 	<url>
-		<loc>https://tryggp.com/terms-of-use</loc>
-	</url>
-	<url>
-		<loc>https://tryggp.com/privacy-policy</loc>
-	</url>
-	<url>
-		<loc>https://tryggp.com/bonus</loc>
+		<loc>https://tryggp.com/mobile-app</loc>
 	</url>
 </urlset>
